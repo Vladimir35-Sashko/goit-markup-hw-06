@@ -655,6 +655,7 @@ img {
   border-radius: 4px;
   outline: none;
   color: rgba(255, 255, 255, 0.6);
+  padding-left: 16px;
 }
 .footer-sign-mail::placeholder {
   font-family: var(--main-font);
@@ -665,7 +666,6 @@ img {
   letter-spacing: 0.03em;
 
   color: rgba(255, 255, 255, 0.6);
-  padding-left: 16px;
   padding-top: 15px;
   padding-bottom: 15px;
 }
